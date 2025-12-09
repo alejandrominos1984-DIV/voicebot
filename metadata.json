@@ -1,0 +1,7 @@
+{
+  "name": "English Tutor Voice Bot",
+  "description": "An interactive AI English tutor with American accent for Spanish speakers, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
